@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://H:\Ethereum-coin\ETHWallet-master\ETHWallet.iml" filepath="H:\Ethereum-coin\ETHWallet-master\ETHWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ETHWallet-master.iml" filepath="$PROJECT_DIR$/ETHWallet-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\Ethereum-coin\ETHWallet-master\app\app.iml" filepath="H:\Ethereum-coin\ETHWallet-master\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxingsupport/zxingsupport.iml" filepath="$PROJECT_DIR$/zxingsupport/zxingsupport.iml" />
+      <module fileurl="file://H:\Ethereum-coin\ETHWallet-master\zxingsupport\zxingsupport.iml" filepath="H:\Ethereum-coin\ETHWallet-master\zxingsupport\zxingsupport.iml" />
+    </modules>
+  </component>
+</project>
